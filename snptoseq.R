@@ -40,7 +40,7 @@ export(seqs,paste0(jobname,'.fasta'))
 write.table(snp,file=paste0(jobname,'.bed'),row.names = F,quote=F,sep='\t')
 
 
-# Rscript --vanilla snptoseq.R  COSMIC  /Users/lichen/Dropbox/projects/TL/data/COSMIC 500 hg19
+# Rscript --vanilla snptoseq.R  COSMIC  /Users/COSMIC 500 hg19
 
 
 
