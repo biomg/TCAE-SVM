@@ -2,7 +2,7 @@
 Predicting functional non-coding variants based on convolutional
 autoencoder and support vector machine by deep transfer learning
 # Introduction
-We propose TCAE-SVM to predict context-specific functional  non-coding variants, Which uses a convolutional autoencoder to extract features and support vector machine to predict functional non-coding variants. 
+We propose TCAE-SVM to predict context-specific functional  non-coding variants, which uses a convolutional autoencoder to extract features and support vector machine to predict functional non-coding variants. 
 # Requirements
     Python 3.8
     Keras == 2.4.0
